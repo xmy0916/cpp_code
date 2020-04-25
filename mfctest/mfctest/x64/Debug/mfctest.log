@@ -1,0 +1,52 @@
+﻿  kinect.cpp
+e:\vs_code\mfctest\mfctest\kinect.cpp(298): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\mfctest\mfctest\kinect.cpp(299): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\mfctest\mfctest\kinect.cpp(301): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\mfctest\mfctest\kinect.cpp(302): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\mfctest\mfctest\kinect.cpp(330): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\mfctest\mfctest\kinect.cpp(331): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\mfctest\mfctest\kinect.cpp(333): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\mfctest\mfctest\kinect.cpp(334): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\mfctest\mfctest\kinect.cpp(336): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\mfctest\mfctest\kinect.cpp(337): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  mfctest.vcxproj -> E:\vs_code\mfctest\x64\Debug\mfctest.exe

@@ -1,0 +1,84 @@
+﻿  pocture.cpp
+e:\vs_code\pocture\pocture\pocture.cpp(74): warning C4244: “=”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\vs\vc\tools\msvc\14.16.27023\include\utility(208): warning C4244: “初始化”: 从“const _Ty1”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty1=float
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+  d:\vs\vc\tools\msvc\14.16.27023\include\xmemory0(879): note: 参见对正在编译的函数 模板 实例化“std::pair<const _Kty,_Ty>::pair<float,std::string,0>(const std::pair<float,std::string> &) noexcept(false)”的引用
+          with
+          [
+              _Kty=int,
+              _Ty=std::string
+          ]
+  d:\vs\vc\tools\msvc\14.16.27023\include\xmemory0(881): note: 参见对正在编译的函数 模板 实例化“std::pair<const _Kty,_Ty>::pair<float,std::string,0>(const std::pair<float,std::string> &) noexcept(false)”的引用
+          with
+          [
+              _Kty=int,
+              _Ty=std::string
+          ]
+  d:\vs\vc\tools\msvc\14.16.27023\include\xtree(976): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<float,std::string>&>(_Alloc &,_Objty *const ,std::pair<float,std::string> &)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const int,std::string>,std::_Default_allocator_traits<std::allocator<std::pair<const int,std::string>>>::void_pointer>>,
+              _Ty=std::pair<const int,std::string>,
+              _Objty=std::pair<const int,std::string>
+          ]
+  d:\vs\vc\tools\msvc\14.16.27023\include\xtree(983): note: 参见对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<float,std::string>&>(_Alloc &,_Objty *const ,std::pair<float,std::string> &)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const int,std::string>,std::_Default_allocator_traits<std::allocator<std::pair<const int,std::string>>>::void_pointer>>,
+              _Ty=std::pair<const int,std::string>,
+              _Objty=std::pair<const int,std::string>
+          ]
+  d:\vs\vc\tools\msvc\14.16.27023\include\xtree(1154): note: 参见对正在编译的函数 模板 实例化“std::_Tree_node<_Ty,std::_Default_allocator_traits<_Alloc>::void_pointer> *std::_Tree_comp_alloc<_Traits>::_Buynode<std::pair<float,std::string>&>(std::pair<float,std::string> &)”的引用
+          with
+          [
+              _Ty=std::pair<const int,std::string>,
+              _Alloc=std::allocator<std::pair<const int,std::string>>,
+              _Traits=std::_Tmap_traits<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>,false>
+          ]
+  d:\vs\vc\tools\msvc\14.16.27023\include\xtree(1155): note: 参见对正在编译的函数 模板 实例化“std::_Tree_node<_Ty,std::_Default_allocator_traits<_Alloc>::void_pointer> *std::_Tree_comp_alloc<_Traits>::_Buynode<std::pair<float,std::string>&>(std::pair<float,std::string> &)”的引用
+          with
+          [
+              _Ty=std::pair<const int,std::string>,
+              _Alloc=std::allocator<std::pair<const int,std::string>>,
+              _Traits=std::_Tmap_traits<int,std::string,std::less<int>,std::allocator<std::pair<const int,std::string>>,false>
+          ]
+  d:\vs\vc\tools\msvc\14.16.27023\include\map(213): note: 参见对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<_Ty>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,_Pr,_Alloc,false>>::emplace<std::pair<float,std::string>&>(std::pair<float,std::string> &)”的引用
+          with
+          [
+              _Ty=std::pair<const int,std::string>,
+              _Kty=int,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,std::string>>
+          ]
+  d:\vs\vc\tools\msvc\14.16.27023\include\map(213): note: 参见对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<_Ty>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,_Pr,_Alloc,false>>::emplace<std::pair<float,std::string>&>(std::pair<float,std::string> &)”的引用
+          with
+          [
+              _Ty=std::pair<const int,std::string>,
+              _Kty=int,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<std::pair<const int,std::string>>
+          ]
+  e:\vs_code\pocture\pocture\pocture.cpp(96): note: 参见对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<_Ty>>>,bool> std::map<int,std::string,std::less<int>,std::allocator<_Ty>>::insert<std::pair<float,std::string>&,void>(_Valty)”的引用
+          with
+          [
+              _Ty=std::pair<const int,std::string>,
+              _Valty=std::pair<float,std::string> &
+          ]
+  e:\vs_code\pocture\pocture\pocture.cpp(96): note: 参见对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<_Ty>>>,bool> std::map<int,std::string,std::less<int>,std::allocator<_Ty>>::insert<std::pair<float,std::string>&,void>(_Valty)”的引用
+          with
+          [
+              _Ty=std::pair<const int,std::string>,
+              _Valty=std::pair<float,std::string> &
+          ]
+  pocture.vcxproj -> E:\vs_code\pocture\x64\Debug\pocture.exe

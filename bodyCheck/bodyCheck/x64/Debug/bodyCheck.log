@@ -1,0 +1,23 @@
+﻿  pch.cpp
+  bodyCheck.cpp
+e:\vs_code\bodycheck\bodycheck\bodycheck.cpp(134): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\bodycheck\bodycheck\bodycheck.cpp(135): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\bodycheck\bodycheck\bodycheck.cpp(137): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\bodycheck\bodycheck\bodycheck.cpp(138): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  bodyCheck.vcxproj -> E:\vs_code\bodyCheck\x64\Debug\bodyCheck.exe

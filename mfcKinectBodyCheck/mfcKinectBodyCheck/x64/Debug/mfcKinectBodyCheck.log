@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  kinect.cpp
+e:\vs_code\mfckinectbodycheck\mfckinectbodycheck\kinect.cpp(268): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\mfckinectbodycheck\mfckinectbodycheck\kinect.cpp(269): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\mfckinectbodycheck\mfckinectbodycheck\kinect.cpp(271): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\vs_code\mfckinectbodycheck\mfckinectbodycheck\kinect.cpp(272): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  mfcKinectBodyCheck.cpp
+  mfcKinectBodyCheckDlg.cpp
+  正在生成代码...
+  mfcKinectBodyCheck.vcxproj -> E:\vs_code\mfcKinectBodyCheck\x64\Debug\mfcKinectBodyCheck.exe
